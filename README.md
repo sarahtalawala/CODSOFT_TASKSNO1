@@ -1,2 +1,2 @@
-# CODSOFT_TASKSNO1
+# CODSOFT_TASKSNO
 Java Development Internship Tasks - CodSoft
